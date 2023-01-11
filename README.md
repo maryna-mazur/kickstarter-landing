@@ -22,4 +22,4 @@ CrazyBaby landing page was implemented, accorded to Figma design.
 [CrazyBaby](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655%3A32&t=PldRv3stEFGdzGUy-0)
 ## Feedback
 
-If you have any feedback, please reach out to me at marinemazu@gmail.com
+If you have any feedback, please reach out to me at marinemazur@gmail.com
